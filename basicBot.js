@@ -246,7 +246,7 @@
     var botCreatorIDs = [3851534, 4105209];
 
     var basicBot = {
-        version: '1.0',
+        version: '2.1.0',
         status: false,
         name: 'HexBot',
         loggedInID: null,
@@ -259,8 +259,8 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: 'HexBot',
-            language: 'english',
-            chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
+            language: 'czech',
+            chatLink: 'https://rawgit.com/RemyLp/Hexmania.eu/master/lang/cs.json',
             scriptLink: 'https://rawgit.com/RemyLp/Hexmania.eu/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
