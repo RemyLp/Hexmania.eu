@@ -64,7 +64,7 @@
     "greyuser": "Pouze vyhazova\u010di a vy\u0161\u0161\u00ed mohou spustit bota.",
     "bouncer": "Bot nem\u016f\u017ee p\u0159esouvat lidi, kdy\u017e je spu\u0161t\u011bn jako vyhazova\u010d.",
     "online": "\/me %%BOTNAME%% v%%VERSION%% je nyni online!",
-    "welcome": "\/me V\u00edtej %%NAME%%",
+    "welcome": "\/me V\u00edtej @%%NAME%% na Plug.Dj portalu Hexmania.eu! Pro specialni vzhled roomky pouzij rcs.radiant.dj",
     "welcomeback": "\/me V\u00edtej zp\u011bt, @%%NAME%% na PlugDj portalu Hexmania.eu!",
     "songknown": "\/me @%%NAME%%, tato skladba je ji\u017e v DJ historii.",
     "notavailable": "\/me @%%NAME%%, skladba, kterou jsi hr\u00e1l\/a, nebyla dotupn\u00e1.",
