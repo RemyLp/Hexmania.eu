@@ -2,7 +2,7 @@
     "room":                     "Hexmania.eu",
     "author":                   "Reemi",
     "icon":                     "https://hexmania.eu/img/logo.png",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://rawgit.com/RemyLp/Hexmania.eu/master/roomstngs.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
