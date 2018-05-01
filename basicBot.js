@@ -241,16 +241,16 @@
         return str;
     };
 
-    var botCreator = 'Yemasthui';
-    var botMaintainer = 'Benzi';
+    var botCreator = 'Reemi';
+    var botMaintainer = 'Reemi';
     var botCreatorIDs = [3851534, 4105209];
 
     var basicBot = {
-        version: '2.12.0',
+        version: '1.0',
         status: false,
-        name: 'basicBot',
+        name: 'HexBot',
         loggedInID: null,
-        scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
+        scriptLink: 'https://rawgit.com/RemyLp/Hexmania.eu/master/basicBot.js',
         cmdLink: 'http://git.io/245Ppg',
         chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
         chat: null,
@@ -258,21 +258,21 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: 'basicBot',
+            botName: 'HexBot',
             language: 'english',
             chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
-            scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
+            scriptLink: 'https://rawgit.com/RemyLp/Hexmania.eu/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
-            startupVolume: 0, // 0-100
-            startupEmoji: false, // true or false
+            startupVolume: 20, // 0-100
+            startupEmoji: true, // true or false
             autowoot: true,
             autoskip: false,
             smartSkip: true,
             cmdDeletion: true,
             maximumAfk: 120,
             afkRemoval: true,
-            maximumDc: 60,
+            maximumDc: 120,
             bouncerPlus: true,
             blacklistEnabled: true,
             lockdownEnabled: false,
